@@ -1,0 +1,22 @@
+{
+  "wheel_id": 436,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-com-104",
+  "project": "retaining-wall-quotes-brisbane-pros-and-cons-51a54d0d24d21edbfa",
+  "parent_t1_ref": "retainingwallpros-com-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane pros and cons",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-quotes-brisbane-pros-and-cons-51a54d0d24d21edbfa/",
+  "tier": "T2",
+  "writeback_nonce": "72ac446bdc237986",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallpros-com-151/",
+      "anchor": "Retaining Wall Quotes Brisbane Common Mistakes: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
